@@ -1,17 +1,17 @@
 // Активировать документы (true - включены, false - отключены)
-var isRightsEnabled = true; // Права
-var isCovidCertificateEnabled = true; // COVID-сертификат
+var isRightsEnabled = false; // Права
+var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
-var birthdate = "02.02.2022"; // Дата рождения
-var fullname = "Фамилия Имя Отчество" // ФИО
+var birthdate = "20.12.2005"; // Дата рождения
+var fullname = "Погонець Каріна Іванівна" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
-var passport_id = "323232323" // Номер паспорта
+var passport_id = "683542325" // Номер паспорта
 
 // КПП
-var kpp_id = "1234567890" // ИНН
+var kpp_id = "9451463842" // ИНН
 
 // Права
 var rights_valid_until = "03.03.2023" // Права "Дійсні до"
