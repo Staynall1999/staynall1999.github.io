@@ -3,7 +3,7 @@ var isRightsEnabled = false; // Права
 var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
-var birthdate = "20.12.2005"; // Дата рождения
+var birthdate = "20.12.2004"; // Дата рождения
 var fullname = "Погонець Каріна Іванівна" // ФИО
 var name = "Имя" // Имя
 
